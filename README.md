@@ -18,7 +18,7 @@
 	- Vine: 32.56%
 	- non_Vine: 52.05%
 
-- Review Summary:
+### Review Summary:
 
   ![Review Summary](https://github.com/jediracer/Amazon_Vine_Analysis/blob/main/images/Vine_analysis.png)	
   
