@@ -8,13 +8,13 @@
 - The data was collected from https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Watches_v1_00.tsv.gz
 
 ## Results
-- Review totals
+###Review totals
 	- Vine: 43
 	- non-Vine: 7720
-- Number of 5 Star reviews
+###Number of 5 Star reviews
 	- Vine: 14
 	- non-Vine: 4018
-- Percentage of 5 star reviews
+###Percentage of 5 star reviews
 	- Vine: 32.56%
 	- non_Vine: 52.05%
 
